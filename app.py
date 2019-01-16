@@ -5,6 +5,7 @@ import numpy as np
 import pymysql
 from sqlalchemy import create_engine
 file=[]
+#测试git
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.externals import joblib
